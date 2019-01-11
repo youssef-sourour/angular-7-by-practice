@@ -3,10 +3,15 @@
 * In This project, i use Visual Studio Code as an IDE. 
 # Pre-requirement
 * Install NodeJS
-* Install Angular CLI using command line :  `npm install -g @angular/cli` 
+* Install Angular CLI using command line :  
+  * `npm install -g @angular/cli` 
+* Check ng cli installed version :
+  * `ng --version`
 # VSCODE extensions
 * Markdown All in One (To edit README.MD files)
 * TSLint
+# Training branches
+* baiscs/1_components
 # Helpful command line
 * Create a new project : 
   * Command line : `ng new my-project`
@@ -14,4 +19,3 @@
 * Open the new created project in Vscode
   * `cd my-project`
   * `code .`
-* 
