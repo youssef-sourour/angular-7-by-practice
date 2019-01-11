@@ -69,6 +69,7 @@ Create a component and understand its behavior.
     ```
 
 ### Angular CLI component manual
+* ng g c help :
     ```
     ng generate component --help
     ```
