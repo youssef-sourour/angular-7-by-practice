@@ -1,18 +1,18 @@
 # Angular 7 by practice
 * This is a simple repository that conatains a set of scripts covering all angular 2->7 features
 * In This project, i use Visual Studio Code as an IDE. 
-# Pre-requirement
+## Pre-requirement
 * Install NodeJS
 * Install Angular CLI using command line :  
   * `npm install -g @angular/cli` 
 * Check ng cli installed version :
   * `ng --version`
-# VSCODE extensions
+## VSCODE extensions
 * Markdown All in One (To edit README.MD files)
 * TSLint
-# Training branches
-* baiscs/1_components
-# Helpful command line
+## Training branches
+* basics/1_components
+## Helpful command line
 * Create a new project : 
   * Command line : `ng new my-project`
   * Command line help : `ng new --help`
